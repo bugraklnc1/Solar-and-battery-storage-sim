@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+/* ── Custom design tokens ── */
+@layer base {
+  :root {
+    --color-pv: #fbbf24;       /* amber-400  — PV output line */
+    --color-battery: #34d399;  /* emerald-400 — battery area */
+    --color-grid: #f87171;     /* red-400     — grid draw */
+    --color-curtail: #fb923c;  /* orange-400  — curtailed energy */
+  }
+
+  html {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    background-color: #020617; /* slate-950 */
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  /* Custom scrollbar for dark theme */
+  ::-webkit-scrollbar { width: 6px; height: 6px; }
+  ::-webkit-scrollbar-track { background: #0f172a; }
+  ::-webkit-scrollbar-thumb { background: #334155; border-radius: 3px; }
+  ::-webkit-scrollbar-thumb:hover { background: #475569; }
+}
