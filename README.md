@@ -1,4 +1,4 @@
-# Solar & Battery Storage Simulator ☀️🔋
+# Solar & Battery Storage Simulator 
 
 ![CI Pipeline](https://github.com/bugraklnc1/Solar-and-battery-storage-sim/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
@@ -9,7 +9,7 @@ An end-to-end data engineering and software simulation project modeling the core
 
 This project fetches real-world meteorological data, cleans and validates it through a Python pipeline, and runs a pure-TypeScript simulation to demonstrate how a Battery Energy Storage System (BESS) can mitigate the [Duck Curve](https://en.wikipedia.org/wiki/Duck_curve) effect by shifting daytime solar overproduction to cover evening consumption peaks.
 
-## 🌟 Key Features
+## Key Features
 
 * **Real-world Data Pipeline (Python):** Fetches 7-day historical hourly weather data for Berlin, Istanbul, and Lisbon via the Open-Meteo API.
 * **Data Cleansing & Validation:** Uses linear interpolation for missing data and strictly validates physical constraints (e.g., radiation ≥ 0, temperature bounds) using **Pydantic**.
@@ -17,7 +17,7 @@ This project fetches real-world meteorological data, cleans and validates it thr
 * **Interactive UI (React):** A sleek, responsive dashboard built with Tailwind CSS v4 and Recharts. Visualizes the exact moment the battery takes over when the sun goes down.
 * **CI/CD Integration:** Automated testing pipeline using GitHub Actions, ensuring both Python (`pytest`) and TypeScript (`Vitest`) codebases remain stable.
 
-## 🏗️ Architecture
+## Architecture
 
 The project strictly separates data engineering (Backend) from business logic and visualization (Frontend), communicating via a typed JSON contract.
 
@@ -43,13 +43,13 @@ The project strictly separates data engineering (Backend) from business logic an
 (5) React: App.tsx             --> Renders Dashboard & Charts
 ```
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Data Pipeline:** Python, Requests, Pydantic, Pytest  
 **Simulation & UI:** TypeScript, React, Vite, Tailwind CSS v4, Recharts, Vitest  
 **DevOps:** Git, GitHub Actions (CI)  
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Data Pipeline (Python)
 To generate fresh weather data for the last 7 days:
@@ -76,7 +76,7 @@ npm run dev
 ```
 Open `http://localhost:5173` in your browser.
 
-## 🧪 Testing
+## Testing
 
 The project maintains high quality through automated testing on both sides of the stack.
 
@@ -94,18 +94,18 @@ npm run test
 ```
 *Tests deterministic battery behavior: nighttime discharging, daytime charging, curtailment (waste) logic, grid-draw fallbacks, and temperature efficiency losses.*
 
-## ⚠️ Known Limitations & Assumptions
+## Known Limitations & Assumptions
 
 * **Temperature Model:** Uses ambient air temperature as a proxy for panel surface temperature (a full model would use NOCT-based cell temperature estimation).
 * **Efficiency Model:** Applies temperature efficiency loss only above 25°C (conservative simplification, no gain modeled below).
 * **System Sizing:** The default 5 kW panel / 10 kWh battery configuration is undersized relative to the simulated household load, resulting in significant grid dependency. This is intentional to visually demonstrate the charging/discharging sizing trade-off on the UI, rather than a bug.
 
-## 🧠 Why this project? 
+## Why this project? 
 
 The transition to renewable energy isn't just about building more solar panels; it's about **matching supply with demand**. Solar panels only produce electricity during the day, but residential demand peaks in the morning and evening. 
 
 This project simulates a **Battery Energy Storage System (BESS)**. By visualizing the "Charge Mode" during the day and "Discharge Mode" at night, it practically demonstrates **Load Shifting** — the exact technology required to stabilize modern green energy grids.
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License.
