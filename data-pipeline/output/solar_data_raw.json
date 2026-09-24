@@ -1,293 +1,5 @@
 [
   {
-    "timestamp": "2026-09-15T00:00Z",
-    "location": "Berlin",
-    "temperature_2m": 12.4,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-15T01:00Z",
-    "location": "Berlin",
-    "temperature_2m": 12.4,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-15T02:00Z",
-    "location": "Berlin",
-    "temperature_2m": 12.1,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-15T03:00Z",
-    "location": "Berlin",
-    "temperature_2m": 11.5,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-15T04:00Z",
-    "location": "Berlin",
-    "temperature_2m": 11.3,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-15T05:00Z",
-    "location": "Berlin",
-    "temperature_2m": 11.0,
-    "shortwave_radiation": 2.0
-  },
-  {
-    "timestamp": "2026-09-15T06:00Z",
-    "location": "Berlin",
-    "temperature_2m": 11.2,
-    "shortwave_radiation": 63.0
-  },
-  {
-    "timestamp": "2026-09-15T07:00Z",
-    "location": "Berlin",
-    "temperature_2m": 12.6,
-    "shortwave_radiation": 188.0
-  },
-  {
-    "timestamp": "2026-09-15T08:00Z",
-    "location": "Berlin",
-    "temperature_2m": 14.7,
-    "shortwave_radiation": 312.0
-  },
-  {
-    "timestamp": "2026-09-15T09:00Z",
-    "location": "Berlin",
-    "temperature_2m": 17.8,
-    "shortwave_radiation": 443.0
-  },
-  {
-    "timestamp": "2026-09-15T10:00Z",
-    "location": "Berlin",
-    "temperature_2m": 19.9,
-    "shortwave_radiation": 457.0
-  },
-  {
-    "timestamp": "2026-09-15T11:00Z",
-    "location": "Berlin",
-    "temperature_2m": 21.6,
-    "shortwave_radiation": 455.0
-  },
-  {
-    "timestamp": "2026-09-15T12:00Z",
-    "location": "Berlin",
-    "temperature_2m": 23.8,
-    "shortwave_radiation": 513.0
-  },
-  {
-    "timestamp": "2026-09-15T13:00Z",
-    "location": "Berlin",
-    "temperature_2m": 24.0,
-    "shortwave_radiation": 314.0
-  },
-  {
-    "timestamp": "2026-09-15T14:00Z",
-    "location": "Berlin",
-    "temperature_2m": 24.9,
-    "shortwave_radiation": 256.0
-  },
-  {
-    "timestamp": "2026-09-15T15:00Z",
-    "location": "Berlin",
-    "temperature_2m": 25.0,
-    "shortwave_radiation": 225.0
-  },
-  {
-    "timestamp": "2026-09-15T16:00Z",
-    "location": "Berlin",
-    "temperature_2m": 25.0,
-    "shortwave_radiation": 163.0
-  },
-  {
-    "timestamp": "2026-09-15T17:00Z",
-    "location": "Berlin",
-    "temperature_2m": 24.0,
-    "shortwave_radiation": 62.0
-  },
-  {
-    "timestamp": "2026-09-15T18:00Z",
-    "location": "Berlin",
-    "temperature_2m": 22.7,
-    "shortwave_radiation": 2.0
-  },
-  {
-    "timestamp": "2026-09-15T19:00Z",
-    "location": "Berlin",
-    "temperature_2m": 21.2,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-15T20:00Z",
-    "location": "Berlin",
-    "temperature_2m": 20.3,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-15T21:00Z",
-    "location": "Berlin",
-    "temperature_2m": 19.9,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-15T22:00Z",
-    "location": "Berlin",
-    "temperature_2m": 19.6,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-15T23:00Z",
-    "location": "Berlin",
-    "temperature_2m": 19.1,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-16T00:00Z",
-    "location": "Berlin",
-    "temperature_2m": 18.7,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-16T01:00Z",
-    "location": "Berlin",
-    "temperature_2m": 18.3,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-16T02:00Z",
-    "location": "Berlin",
-    "temperature_2m": 17.8,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-16T03:00Z",
-    "location": "Berlin",
-    "temperature_2m": 17.7,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-16T04:00Z",
-    "location": "Berlin",
-    "temperature_2m": 17.4,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-16T05:00Z",
-    "location": "Berlin",
-    "temperature_2m": 16.8,
-    "shortwave_radiation": 1.0
-  },
-  {
-    "timestamp": "2026-09-16T06:00Z",
-    "location": "Berlin",
-    "temperature_2m": 17.6,
-    "shortwave_radiation": 57.0
-  },
-  {
-    "timestamp": "2026-09-16T07:00Z",
-    "location": "Berlin",
-    "temperature_2m": 18.2,
-    "shortwave_radiation": 144.0
-  },
-  {
-    "timestamp": "2026-09-16T08:00Z",
-    "location": "Berlin",
-    "temperature_2m": 18.6,
-    "shortwave_radiation": 107.0
-  },
-  {
-    "timestamp": "2026-09-16T09:00Z",
-    "location": "Berlin",
-    "temperature_2m": 17.2,
-    "shortwave_radiation": 58.0
-  },
-  {
-    "timestamp": "2026-09-16T10:00Z",
-    "location": "Berlin",
-    "temperature_2m": 17.4,
-    "shortwave_radiation": 104.0
-  },
-  {
-    "timestamp": "2026-09-16T11:00Z",
-    "location": "Berlin",
-    "temperature_2m": 17.9,
-    "shortwave_radiation": 93.0
-  },
-  {
-    "timestamp": "2026-09-16T12:00Z",
-    "location": "Berlin",
-    "temperature_2m": 17.5,
-    "shortwave_radiation": 51.0
-  },
-  {
-    "timestamp": "2026-09-16T13:00Z",
-    "location": "Berlin",
-    "temperature_2m": 17.3,
-    "shortwave_radiation": 62.0
-  },
-  {
-    "timestamp": "2026-09-16T14:00Z",
-    "location": "Berlin",
-    "temperature_2m": 18.2,
-    "shortwave_radiation": 213.0
-  },
-  {
-    "timestamp": "2026-09-16T15:00Z",
-    "location": "Berlin",
-    "temperature_2m": 18.5,
-    "shortwave_radiation": 204.0
-  },
-  {
-    "timestamp": "2026-09-16T16:00Z",
-    "location": "Berlin",
-    "temperature_2m": 18.9,
-    "shortwave_radiation": 124.0
-  },
-  {
-    "timestamp": "2026-09-16T17:00Z",
-    "location": "Berlin",
-    "temperature_2m": 18.3,
-    "shortwave_radiation": 56.0
-  },
-  {
-    "timestamp": "2026-09-16T18:00Z",
-    "location": "Berlin",
-    "temperature_2m": 17.3,
-    "shortwave_radiation": 2.0
-  },
-  {
-    "timestamp": "2026-09-16T19:00Z",
-    "location": "Berlin",
-    "temperature_2m": 16.6,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-16T20:00Z",
-    "location": "Berlin",
-    "temperature_2m": 16.7,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-16T21:00Z",
-    "location": "Berlin",
-    "temperature_2m": 15.7,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-16T22:00Z",
-    "location": "Berlin",
-    "temperature_2m": 15.3,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-16T23:00Z",
-    "location": "Berlin",
-    "temperature_2m": 14.7,
-    "shortwave_radiation": 0.0
-  },
-  {
     "timestamp": "2026-09-17T00:00Z",
     "location": "Berlin",
     "temperature_2m": 13.8,
@@ -1008,1299 +720,1299 @@
     "shortwave_radiation": 0.0
   },
   {
-    "timestamp": "2026-09-15T00:00Z",
-    "location": "Madrid",
-    "temperature_2m": 22.3,
+    "timestamp": "2026-09-22T00:00Z",
+    "location": "Berlin",
+    "temperature_2m": 12.7,
     "shortwave_radiation": 0.0
   },
   {
-    "timestamp": "2026-09-15T01:00Z",
-    "location": "Madrid",
-    "temperature_2m": 21.6,
+    "timestamp": "2026-09-22T01:00Z",
+    "location": "Berlin",
+    "temperature_2m": 12.1,
     "shortwave_radiation": 0.0
   },
   {
-    "timestamp": "2026-09-15T02:00Z",
-    "location": "Madrid",
-    "temperature_2m": 21.2,
+    "timestamp": "2026-09-22T02:00Z",
+    "location": "Berlin",
+    "temperature_2m": 11.3,
     "shortwave_radiation": 0.0
   },
   {
-    "timestamp": "2026-09-15T03:00Z",
-    "location": "Madrid",
-    "temperature_2m": 20.6,
+    "timestamp": "2026-09-22T03:00Z",
+    "location": "Berlin",
+    "temperature_2m": 10.3,
     "shortwave_radiation": 0.0
   },
   {
-    "timestamp": "2026-09-15T04:00Z",
-    "location": "Madrid",
-    "temperature_2m": 19.0,
+    "timestamp": "2026-09-22T04:00Z",
+    "location": "Berlin",
+    "temperature_2m": 9.7,
     "shortwave_radiation": 0.0
   },
   {
-    "timestamp": "2026-09-15T05:00Z",
-    "location": "Madrid",
-    "temperature_2m": 18.2,
+    "timestamp": "2026-09-22T05:00Z",
+    "location": "Berlin",
+    "temperature_2m": 9.2,
     "shortwave_radiation": 0.0
   },
   {
-    "timestamp": "2026-09-15T06:00Z",
-    "location": "Madrid",
-    "temperature_2m": 17.7,
-    "shortwave_radiation": 0.0
+    "timestamp": "2026-09-22T06:00Z",
+    "location": "Berlin",
+    "temperature_2m": 9.0,
+    "shortwave_radiation": 49.0
   },
   {
-    "timestamp": "2026-09-15T07:00Z",
-    "location": "Madrid",
-    "temperature_2m": 18.3,
-    "shortwave_radiation": 68.0
+    "timestamp": "2026-09-22T07:00Z",
+    "location": "Berlin",
+    "temperature_2m": 9.8,
+    "shortwave_radiation": 173.0
   },
   {
-    "timestamp": "2026-09-15T08:00Z",
-    "location": "Madrid",
-    "temperature_2m": 21.7,
-    "shortwave_radiation": 248.0
+    "timestamp": "2026-09-22T08:00Z",
+    "location": "Berlin",
+    "temperature_2m": 11.5,
+    "shortwave_radiation": 313.0
   },
   {
-    "timestamp": "2026-09-15T09:00Z",
-    "location": "Madrid",
-    "temperature_2m": 24.9,
-    "shortwave_radiation": 442.0
+    "timestamp": "2026-09-22T09:00Z",
+    "location": "Berlin",
+    "temperature_2m": 13.4,
+    "shortwave_radiation": 440.0
   },
   {
-    "timestamp": "2026-09-15T10:00Z",
-    "location": "Madrid",
-    "temperature_2m": 27.8,
-    "shortwave_radiation": 614.0
+    "timestamp": "2026-09-22T10:00Z",
+    "location": "Berlin",
+    "temperature_2m": 15.0,
+    "shortwave_radiation": 520.0
   },
   {
-    "timestamp": "2026-09-15T11:00Z",
-    "location": "Madrid",
-    "temperature_2m": 30.3,
-    "shortwave_radiation": 741.0
+    "timestamp": "2026-09-22T11:00Z",
+    "location": "Berlin",
+    "temperature_2m": 16.6,
+    "shortwave_radiation": 549.0
   },
   {
-    "timestamp": "2026-09-15T12:00Z",
-    "location": "Madrid",
-    "temperature_2m": 32.3,
-    "shortwave_radiation": 814.0
+    "timestamp": "2026-09-22T12:00Z",
+    "location": "Berlin",
+    "temperature_2m": 17.9,
+    "shortwave_radiation": 411.0
   },
   {
-    "timestamp": "2026-09-15T13:00Z",
-    "location": "Madrid",
-    "temperature_2m": 34.0,
-    "shortwave_radiation": 824.0
+    "timestamp": "2026-09-22T13:00Z",
+    "location": "Berlin",
+    "temperature_2m": 18.4,
+    "shortwave_radiation": 471.0
   },
   {
-    "timestamp": "2026-09-15T14:00Z",
-    "location": "Madrid",
-    "temperature_2m": 35.0,
-    "shortwave_radiation": 773.0
+    "timestamp": "2026-09-22T14:00Z",
+    "location": "Berlin",
+    "temperature_2m": 18.6,
+    "shortwave_radiation": 344.0
   },
   {
-    "timestamp": "2026-09-15T15:00Z",
-    "location": "Madrid",
-    "temperature_2m": 35.5,
-    "shortwave_radiation": 663.0
-  },
-  {
-    "timestamp": "2026-09-15T16:00Z",
-    "location": "Madrid",
-    "temperature_2m": 35.2,
-    "shortwave_radiation": 506.0
-  },
-  {
-    "timestamp": "2026-09-15T17:00Z",
-    "location": "Madrid",
-    "temperature_2m": 34.6,
-    "shortwave_radiation": 317.0
-  },
-  {
-    "timestamp": "2026-09-15T18:00Z",
-    "location": "Madrid",
-    "temperature_2m": 33.2,
-    "shortwave_radiation": 121.0
-  },
-  {
-    "timestamp": "2026-09-15T19:00Z",
-    "location": "Madrid",
-    "temperature_2m": 30.7,
-    "shortwave_radiation": 6.0
-  },
-  {
-    "timestamp": "2026-09-15T20:00Z",
-    "location": "Madrid",
-    "temperature_2m": 29.0,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-15T21:00Z",
-    "location": "Madrid",
-    "temperature_2m": 27.9,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-15T22:00Z",
-    "location": "Madrid",
-    "temperature_2m": 26.3,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-15T23:00Z",
-    "location": "Madrid",
-    "temperature_2m": 24.2,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-16T00:00Z",
-    "location": "Madrid",
-    "temperature_2m": 22.7,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-16T01:00Z",
-    "location": "Madrid",
-    "temperature_2m": 21.7,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-16T02:00Z",
-    "location": "Madrid",
-    "temperature_2m": 21.7,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-16T03:00Z",
-    "location": "Madrid",
-    "temperature_2m": 21.1,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-16T04:00Z",
-    "location": "Madrid",
-    "temperature_2m": 20.1,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-16T05:00Z",
-    "location": "Madrid",
-    "temperature_2m": 19.2,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-16T06:00Z",
-    "location": "Madrid",
+    "timestamp": "2026-09-22T15:00Z",
+    "location": "Berlin",
     "temperature_2m": 18.7,
-    "shortwave_radiation": 0.0
+    "shortwave_radiation": 265.0
   },
   {
-    "timestamp": "2026-09-16T07:00Z",
-    "location": "Madrid",
-    "temperature_2m": 18.8,
-    "shortwave_radiation": 57.0
+    "timestamp": "2026-09-22T16:00Z",
+    "location": "Berlin",
+    "temperature_2m": 18.5,
+    "shortwave_radiation": 169.0
   },
   {
-    "timestamp": "2026-09-16T08:00Z",
-    "location": "Madrid",
-    "temperature_2m": 19.8,
-    "shortwave_radiation": 184.0
+    "timestamp": "2026-09-22T17:00Z",
+    "location": "Berlin",
+    "temperature_2m": 17.6,
+    "shortwave_radiation": 44.0
   },
   {
-    "timestamp": "2026-09-16T09:00Z",
-    "location": "Madrid",
-    "temperature_2m": 21.3,
-    "shortwave_radiation": 311.0
-  },
-  {
-    "timestamp": "2026-09-16T10:00Z",
-    "location": "Madrid",
-    "temperature_2m": 23.2,
-    "shortwave_radiation": 479.0
-  },
-  {
-    "timestamp": "2026-09-16T11:00Z",
-    "location": "Madrid",
-    "temperature_2m": 24.9,
-    "shortwave_radiation": 556.0
-  },
-  {
-    "timestamp": "2026-09-16T12:00Z",
-    "location": "Madrid",
-    "temperature_2m": 26.0,
-    "shortwave_radiation": 640.0
-  },
-  {
-    "timestamp": "2026-09-16T13:00Z",
-    "location": "Madrid",
-    "temperature_2m": 27.5,
-    "shortwave_radiation": 600.0
-  },
-  {
-    "timestamp": "2026-09-16T14:00Z",
-    "location": "Madrid",
-    "temperature_2m": 28.2,
-    "shortwave_radiation": 663.0
-  },
-  {
-    "timestamp": "2026-09-16T15:00Z",
-    "location": "Madrid",
-    "temperature_2m": 28.2,
-    "shortwave_radiation": 594.0
-  },
-  {
-    "timestamp": "2026-09-16T16:00Z",
-    "location": "Madrid",
-    "temperature_2m": 26.9,
-    "shortwave_radiation": 445.0
-  },
-  {
-    "timestamp": "2026-09-16T17:00Z",
-    "location": "Madrid",
-    "temperature_2m": 25.5,
-    "shortwave_radiation": 182.0
-  },
-  {
-    "timestamp": "2026-09-16T18:00Z",
-    "location": "Madrid",
-    "temperature_2m": 23.6,
-    "shortwave_radiation": 78.0
-  },
-  {
-    "timestamp": "2026-09-16T19:00Z",
-    "location": "Madrid",
-    "temperature_2m": 21.3,
-    "shortwave_radiation": 4.0
-  },
-  {
-    "timestamp": "2026-09-16T20:00Z",
-    "location": "Madrid",
-    "temperature_2m": 19.7,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-16T21:00Z",
-    "location": "Madrid",
-    "temperature_2m": 19.2,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-16T22:00Z",
-    "location": "Madrid",
-    "temperature_2m": 18.3,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-16T23:00Z",
-    "location": "Madrid",
-    "temperature_2m": 17.5,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-17T00:00Z",
-    "location": "Madrid",
-    "temperature_2m": 17.4,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-17T01:00Z",
-    "location": "Madrid",
-    "temperature_2m": 16.8,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-17T02:00Z",
-    "location": "Madrid",
+    "timestamp": "2026-09-22T18:00Z",
+    "location": "Berlin",
     "temperature_2m": 16.5,
     "shortwave_radiation": 0.0
   },
   {
-    "timestamp": "2026-09-17T03:00Z",
-    "location": "Madrid",
-    "temperature_2m": 15.8,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-17T04:00Z",
-    "location": "Madrid",
-    "temperature_2m": 15.4,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-17T05:00Z",
-    "location": "Madrid",
-    "temperature_2m": 15.0,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-17T06:00Z",
-    "location": "Madrid",
-    "temperature_2m": 14.5,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-17T07:00Z",
-    "location": "Madrid",
-    "temperature_2m": 14.8,
-    "shortwave_radiation": 44.0
-  },
-  {
-    "timestamp": "2026-09-17T08:00Z",
-    "location": "Madrid",
-    "temperature_2m": 15.9,
-    "shortwave_radiation": 149.0
-  },
-  {
-    "timestamp": "2026-09-17T09:00Z",
-    "location": "Madrid",
-    "temperature_2m": 17.7,
-    "shortwave_radiation": 261.0
-  },
-  {
-    "timestamp": "2026-09-17T10:00Z",
-    "location": "Madrid",
-    "temperature_2m": 19.6,
-    "shortwave_radiation": 514.0
-  },
-  {
-    "timestamp": "2026-09-17T11:00Z",
-    "location": "Madrid",
-    "temperature_2m": 21.3,
-    "shortwave_radiation": 671.0
-  },
-  {
-    "timestamp": "2026-09-17T12:00Z",
-    "location": "Madrid",
-    "temperature_2m": 22.9,
-    "shortwave_radiation": 686.0
-  },
-  {
-    "timestamp": "2026-09-17T13:00Z",
-    "location": "Madrid",
-    "temperature_2m": 24.1,
-    "shortwave_radiation": 758.0
-  },
-  {
-    "timestamp": "2026-09-17T14:00Z",
-    "location": "Madrid",
-    "temperature_2m": 25.1,
-    "shortwave_radiation": 728.0
-  },
-  {
-    "timestamp": "2026-09-17T15:00Z",
-    "location": "Madrid",
-    "temperature_2m": 25.7,
-    "shortwave_radiation": 640.0
-  },
-  {
-    "timestamp": "2026-09-17T16:00Z",
-    "location": "Madrid",
-    "temperature_2m": 25.9,
-    "shortwave_radiation": 486.0
-  },
-  {
-    "timestamp": "2026-09-17T17:00Z",
-    "location": "Madrid",
-    "temperature_2m": 25.5,
-    "shortwave_radiation": 299.0
-  },
-  {
-    "timestamp": "2026-09-17T18:00Z",
-    "location": "Madrid",
-    "temperature_2m": 24.7,
-    "shortwave_radiation": 100.0
-  },
-  {
-    "timestamp": "2026-09-17T19:00Z",
-    "location": "Madrid",
-    "temperature_2m": 23.6,
-    "shortwave_radiation": 3.0
-  },
-  {
-    "timestamp": "2026-09-17T20:00Z",
-    "location": "Madrid",
-    "temperature_2m": 22.5,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-17T21:00Z",
-    "location": "Madrid",
-    "temperature_2m": 21.2,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-17T22:00Z",
-    "location": "Madrid",
-    "temperature_2m": 19.8,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-17T23:00Z",
-    "location": "Madrid",
-    "temperature_2m": 19.1,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-18T00:00Z",
-    "location": "Madrid",
-    "temperature_2m": 18.7,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-18T01:00Z",
-    "location": "Madrid",
-    "temperature_2m": 17.6,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-18T02:00Z",
-    "location": "Madrid",
-    "temperature_2m": 17.0,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-18T03:00Z",
-    "location": "Madrid",
-    "temperature_2m": 16.3,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-18T04:00Z",
-    "location": "Madrid",
-    "temperature_2m": 16.0,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-18T05:00Z",
-    "location": "Madrid",
-    "temperature_2m": 15.5,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-18T06:00Z",
-    "location": "Madrid",
+    "timestamp": "2026-09-22T19:00Z",
+    "location": "Berlin",
     "temperature_2m": 15.1,
     "shortwave_radiation": 0.0
   },
   {
-    "timestamp": "2026-09-18T07:00Z",
-    "location": "Madrid",
-    "temperature_2m": 15.6,
-    "shortwave_radiation": 53.0
-  },
-  {
-    "timestamp": "2026-09-18T08:00Z",
-    "location": "Madrid",
-    "temperature_2m": 17.1,
-    "shortwave_radiation": 218.0
-  },
-  {
-    "timestamp": "2026-09-18T09:00Z",
-    "location": "Madrid",
-    "temperature_2m": 19.6,
-    "shortwave_radiation": 403.0
-  },
-  {
-    "timestamp": "2026-09-18T10:00Z",
-    "location": "Madrid",
-    "temperature_2m": 21.5,
-    "shortwave_radiation": 564.0
-  },
-  {
-    "timestamp": "2026-09-18T11:00Z",
-    "location": "Madrid",
-    "temperature_2m": 23.2,
-    "shortwave_radiation": 683.0
-  },
-  {
-    "timestamp": "2026-09-18T12:00Z",
-    "location": "Madrid",
-    "temperature_2m": 24.6,
-    "shortwave_radiation": 765.0
-  },
-  {
-    "timestamp": "2026-09-18T13:00Z",
-    "location": "Madrid",
-    "temperature_2m": 25.9,
-    "shortwave_radiation": 761.0
-  },
-  {
-    "timestamp": "2026-09-18T14:00Z",
-    "location": "Madrid",
-    "temperature_2m": 26.7,
-    "shortwave_radiation": 719.0
-  },
-  {
-    "timestamp": "2026-09-18T15:00Z",
-    "location": "Madrid",
-    "temperature_2m": 27.1,
-    "shortwave_radiation": 596.0
-  },
-  {
-    "timestamp": "2026-09-18T16:00Z",
-    "location": "Madrid",
-    "temperature_2m": 27.1,
-    "shortwave_radiation": 439.0
-  },
-  {
-    "timestamp": "2026-09-18T17:00Z",
-    "location": "Madrid",
-    "temperature_2m": 26.7,
-    "shortwave_radiation": 287.0
-  },
-  {
-    "timestamp": "2026-09-18T18:00Z",
-    "location": "Madrid",
-    "temperature_2m": 25.8,
-    "shortwave_radiation": 104.0
-  },
-  {
-    "timestamp": "2026-09-18T19:00Z",
-    "location": "Madrid",
-    "temperature_2m": 24.1,
-    "shortwave_radiation": 3.0
-  },
-  {
-    "timestamp": "2026-09-18T20:00Z",
-    "location": "Madrid",
-    "temperature_2m": 23.0,
+    "timestamp": "2026-09-22T20:00Z",
+    "location": "Berlin",
+    "temperature_2m": 14.1,
     "shortwave_radiation": 0.0
   },
   {
-    "timestamp": "2026-09-18T21:00Z",
-    "location": "Madrid",
-    "temperature_2m": 22.6,
+    "timestamp": "2026-09-22T21:00Z",
+    "location": "Berlin",
+    "temperature_2m": 12.5,
     "shortwave_radiation": 0.0
   },
   {
-    "timestamp": "2026-09-18T22:00Z",
-    "location": "Madrid",
-    "temperature_2m": 20.7,
+    "timestamp": "2026-09-22T22:00Z",
+    "location": "Berlin",
+    "temperature_2m": 11.7,
     "shortwave_radiation": 0.0
   },
   {
-    "timestamp": "2026-09-18T23:00Z",
-    "location": "Madrid",
-    "temperature_2m": 19.7,
+    "timestamp": "2026-09-22T23:00Z",
+    "location": "Berlin",
+    "temperature_2m": 11.1,
     "shortwave_radiation": 0.0
   },
   {
-    "timestamp": "2026-09-19T00:00Z",
-    "location": "Madrid",
-    "temperature_2m": 19.3,
+    "timestamp": "2026-09-23T00:00Z",
+    "location": "Berlin",
+    "temperature_2m": 10.3,
     "shortwave_radiation": 0.0
   },
   {
-    "timestamp": "2026-09-19T01:00Z",
-    "location": "Madrid",
-    "temperature_2m": 18.6,
+    "timestamp": "2026-09-23T01:00Z",
+    "location": "Berlin",
+    "temperature_2m": 10.1,
     "shortwave_radiation": 0.0
   },
   {
-    "timestamp": "2026-09-19T02:00Z",
-    "location": "Madrid",
-    "temperature_2m": 18.1,
+    "timestamp": "2026-09-23T02:00Z",
+    "location": "Berlin",
+    "temperature_2m": 9.7,
     "shortwave_radiation": 0.0
   },
   {
-    "timestamp": "2026-09-19T03:00Z",
-    "location": "Madrid",
-    "temperature_2m": 17.5,
+    "timestamp": "2026-09-23T03:00Z",
+    "location": "Berlin",
+    "temperature_2m": 9.1,
     "shortwave_radiation": 0.0
   },
   {
-    "timestamp": "2026-09-19T04:00Z",
-    "location": "Madrid",
-    "temperature_2m": 17.1,
+    "timestamp": "2026-09-23T04:00Z",
+    "location": "Berlin",
+    "temperature_2m": 8.6,
     "shortwave_radiation": 0.0
   },
   {
-    "timestamp": "2026-09-19T05:00Z",
-    "location": "Madrid",
-    "temperature_2m": 16.7,
+    "timestamp": "2026-09-23T05:00Z",
+    "location": "Berlin",
+    "temperature_2m": 8.2,
     "shortwave_radiation": 0.0
   },
   {
-    "timestamp": "2026-09-19T06:00Z",
-    "location": "Madrid",
-    "temperature_2m": 16.2,
-    "shortwave_radiation": 0.0
+    "timestamp": "2026-09-23T06:00Z",
+    "location": "Berlin",
+    "temperature_2m": 8.5,
+    "shortwave_radiation": 45.0
   },
   {
-    "timestamp": "2026-09-19T07:00Z",
-    "location": "Madrid",
-    "temperature_2m": 16.4,
-    "shortwave_radiation": 56.0
+    "timestamp": "2026-09-23T07:00Z",
+    "location": "Berlin",
+    "temperature_2m": 9.6,
+    "shortwave_radiation": 166.0
   },
   {
-    "timestamp": "2026-09-19T08:00Z",
-    "location": "Madrid",
-    "temperature_2m": 18.7,
-    "shortwave_radiation": 227.0
+    "timestamp": "2026-09-23T08:00Z",
+    "location": "Berlin",
+    "temperature_2m": 11.5,
+    "shortwave_radiation": 302.0
   },
   {
-    "timestamp": "2026-09-19T09:00Z",
-    "location": "Madrid",
-    "temperature_2m": 21.2,
-    "shortwave_radiation": 418.0
+    "timestamp": "2026-09-23T09:00Z",
+    "location": "Berlin",
+    "temperature_2m": 14.2,
+    "shortwave_radiation": 427.0
   },
   {
-    "timestamp": "2026-09-19T10:00Z",
-    "location": "Madrid",
-    "temperature_2m": 22.8,
-    "shortwave_radiation": 586.0
-  },
-  {
-    "timestamp": "2026-09-19T11:00Z",
-    "location": "Madrid",
-    "temperature_2m": 24.5,
-    "shortwave_radiation": 712.0
-  },
-  {
-    "timestamp": "2026-09-19T12:00Z",
-    "location": "Madrid",
-    "temperature_2m": 25.8,
-    "shortwave_radiation": 784.0
-  },
-  {
-    "timestamp": "2026-09-19T13:00Z",
-    "location": "Madrid",
-    "temperature_2m": 27.0,
-    "shortwave_radiation": 794.0
-  },
-  {
-    "timestamp": "2026-09-19T14:00Z",
-    "location": "Madrid",
-    "temperature_2m": 27.7,
-    "shortwave_radiation": 743.0
-  },
-  {
-    "timestamp": "2026-09-19T15:00Z",
-    "location": "Madrid",
-    "temperature_2m": 28.2,
-    "shortwave_radiation": 636.0
-  },
-  {
-    "timestamp": "2026-09-19T16:00Z",
-    "location": "Madrid",
-    "temperature_2m": 28.2,
-    "shortwave_radiation": 484.0
-  },
-  {
-    "timestamp": "2026-09-19T17:00Z",
-    "location": "Madrid",
-    "temperature_2m": 27.8,
-    "shortwave_radiation": 295.0
-  },
-  {
-    "timestamp": "2026-09-19T18:00Z",
-    "location": "Madrid",
-    "temperature_2m": 26.7,
-    "shortwave_radiation": 103.0
-  },
-  {
-    "timestamp": "2026-09-19T19:00Z",
-    "location": "Madrid",
-    "temperature_2m": 25.1,
-    "shortwave_radiation": 3.0
-  },
-  {
-    "timestamp": "2026-09-19T20:00Z",
-    "location": "Madrid",
-    "temperature_2m": 24.2,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-19T21:00Z",
-    "location": "Madrid",
-    "temperature_2m": 23.4,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-19T22:00Z",
-    "location": "Madrid",
-    "temperature_2m": 22.2,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-19T23:00Z",
-    "location": "Madrid",
-    "temperature_2m": 21.4,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-20T00:00Z",
-    "location": "Madrid",
-    "temperature_2m": 20.8,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-20T01:00Z",
-    "location": "Madrid",
-    "temperature_2m": 19.8,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-20T02:00Z",
-    "location": "Madrid",
-    "temperature_2m": 18.7,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-20T03:00Z",
-    "location": "Madrid",
-    "temperature_2m": 17.7,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-20T04:00Z",
-    "location": "Madrid",
-    "temperature_2m": 16.9,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-20T05:00Z",
-    "location": "Madrid",
-    "temperature_2m": 16.4,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-20T06:00Z",
-    "location": "Madrid",
+    "timestamp": "2026-09-23T10:00Z",
+    "location": "Berlin",
     "temperature_2m": 16.0,
-    "shortwave_radiation": 0.0
+    "shortwave_radiation": 481.0
   },
   {
-    "timestamp": "2026-09-20T07:00Z",
-    "location": "Madrid",
-    "temperature_2m": 16.2,
-    "shortwave_radiation": 52.0
+    "timestamp": "2026-09-23T11:00Z",
+    "location": "Berlin",
+    "temperature_2m": 17.6,
+    "shortwave_radiation": 518.0
   },
   {
-    "timestamp": "2026-09-20T08:00Z",
-    "location": "Madrid",
-    "temperature_2m": 18.9,
-    "shortwave_radiation": 220.0
+    "timestamp": "2026-09-23T12:00Z",
+    "location": "Berlin",
+    "temperature_2m": 18.7,
+    "shortwave_radiation": 569.0
   },
   {
-    "timestamp": "2026-09-20T09:00Z",
-    "location": "Madrid",
-    "temperature_2m": 21.3,
-    "shortwave_radiation": 411.0
+    "timestamp": "2026-09-23T13:00Z",
+    "location": "Berlin",
+    "temperature_2m": 19.3,
+    "shortwave_radiation": 523.0
   },
   {
-    "timestamp": "2026-09-20T10:00Z",
-    "location": "Madrid",
-    "temperature_2m": 23.4,
-    "shortwave_radiation": 581.0
+    "timestamp": "2026-09-23T14:00Z",
+    "location": "Berlin",
+    "temperature_2m": 19.6,
+    "shortwave_radiation": 434.0
   },
   {
-    "timestamp": "2026-09-20T11:00Z",
-    "location": "Madrid",
-    "temperature_2m": 25.4,
-    "shortwave_radiation": 709.0
+    "timestamp": "2026-09-23T15:00Z",
+    "location": "Berlin",
+    "temperature_2m": 19.8,
+    "shortwave_radiation": 283.0
   },
   {
-    "timestamp": "2026-09-20T12:00Z",
-    "location": "Madrid",
-    "temperature_2m": 27.3,
-    "shortwave_radiation": 783.0
+    "timestamp": "2026-09-23T16:00Z",
+    "location": "Berlin",
+    "temperature_2m": 19.4,
+    "shortwave_radiation": 151.0
   },
   {
-    "timestamp": "2026-09-20T13:00Z",
-    "location": "Madrid",
-    "temperature_2m": 28.9,
-    "shortwave_radiation": 798.0
+    "timestamp": "2026-09-23T17:00Z",
+    "location": "Berlin",
+    "temperature_2m": 19.0,
+    "shortwave_radiation": 33.0
   },
   {
-    "timestamp": "2026-09-20T14:00Z",
-    "location": "Madrid",
-    "temperature_2m": 29.7,
-    "shortwave_radiation": 749.0
-  },
-  {
-    "timestamp": "2026-09-20T15:00Z",
-    "location": "Madrid",
-    "temperature_2m": 30.0,
-    "shortwave_radiation": 638.0
-  },
-  {
-    "timestamp": "2026-09-20T16:00Z",
-    "location": "Madrid",
-    "temperature_2m": 29.8,
-    "shortwave_radiation": 475.0
-  },
-  {
-    "timestamp": "2026-09-20T17:00Z",
-    "location": "Madrid",
-    "temperature_2m": 29.6,
-    "shortwave_radiation": 285.0
-  },
-  {
-    "timestamp": "2026-09-20T18:00Z",
-    "location": "Madrid",
-    "temperature_2m": 28.9,
-    "shortwave_radiation": 97.0
-  },
-  {
-    "timestamp": "2026-09-20T19:00Z",
-    "location": "Madrid",
-    "temperature_2m": 27.4,
-    "shortwave_radiation": 2.0
-  },
-  {
-    "timestamp": "2026-09-20T20:00Z",
-    "location": "Madrid",
-    "temperature_2m": 25.6,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-20T21:00Z",
-    "location": "Madrid",
-    "temperature_2m": 24.5,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-20T22:00Z",
-    "location": "Madrid",
-    "temperature_2m": 22.9,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-20T23:00Z",
-    "location": "Madrid",
-    "temperature_2m": 22.3,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-21T00:00Z",
-    "location": "Madrid",
-    "temperature_2m": 21.5,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-21T01:00Z",
-    "location": "Madrid",
-    "temperature_2m": 20.3,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-21T02:00Z",
-    "location": "Madrid",
-    "temperature_2m": 18.9,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-21T03:00Z",
-    "location": "Madrid",
-    "temperature_2m": 18.6,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-21T04:00Z",
-    "location": "Madrid",
+    "timestamp": "2026-09-23T18:00Z",
+    "location": "Berlin",
     "temperature_2m": 18.0,
     "shortwave_radiation": 0.0
   },
   {
-    "timestamp": "2026-09-21T05:00Z",
-    "location": "Madrid",
+    "timestamp": "2026-09-23T19:00Z",
+    "location": "Berlin",
+    "temperature_2m": 17.1,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-23T20:00Z",
+    "location": "Berlin",
+    "temperature_2m": 16.3,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-23T21:00Z",
+    "location": "Berlin",
+    "temperature_2m": 15.8,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-23T22:00Z",
+    "location": "Berlin",
+    "temperature_2m": 15.3,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-23T23:00Z",
+    "location": "Berlin",
+    "temperature_2m": 14.6,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-17T00:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 16.9,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-17T01:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 17.0,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-17T02:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 16.8,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-17T03:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 16.8,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-17T04:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 17.0,
+    "shortwave_radiation": 1.0
+  },
+  {
+    "timestamp": "2026-09-17T05:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 17.6,
+    "shortwave_radiation": 54.0
+  },
+  {
+    "timestamp": "2026-09-17T06:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 18.7,
+    "shortwave_radiation": 153.0
+  },
+  {
+    "timestamp": "2026-09-17T07:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 19.9,
+    "shortwave_radiation": 258.0
+  },
+  {
+    "timestamp": "2026-09-17T08:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 20.7,
+    "shortwave_radiation": 345.0
+  },
+  {
+    "timestamp": "2026-09-17T09:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 22.1,
+    "shortwave_radiation": 446.0
+  },
+  {
+    "timestamp": "2026-09-17T10:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 22.5,
+    "shortwave_radiation": 402.0
+  },
+  {
+    "timestamp": "2026-09-17T11:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 22.5,
+    "shortwave_radiation": 347.0
+  },
+  {
+    "timestamp": "2026-09-17T12:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 24.2,
+    "shortwave_radiation": 390.0
+  },
+  {
+    "timestamp": "2026-09-17T13:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 23.5,
+    "shortwave_radiation": 424.0
+  },
+  {
+    "timestamp": "2026-09-17T14:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 23.3,
+    "shortwave_radiation": 401.0
+  },
+  {
+    "timestamp": "2026-09-17T15:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 22.4,
+    "shortwave_radiation": 238.0
+  },
+  {
+    "timestamp": "2026-09-17T16:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 21.0,
+    "shortwave_radiation": 66.0
+  },
+  {
+    "timestamp": "2026-09-17T17:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 19.6,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-17T18:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 19.1,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-17T19:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 18.7,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-17T20:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 18.4,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-17T21:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 18.6,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-17T22:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 18.2,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-17T23:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 17.9,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-18T00:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 17.4,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-18T01:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 17.2,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-18T02:00Z",
+    "location": "Istanbul",
     "temperature_2m": 17.3,
     "shortwave_radiation": 0.0
   },
   {
-    "timestamp": "2026-09-21T06:00Z",
-    "location": "Madrid",
-    "temperature_2m": 16.0,
+    "timestamp": "2026-09-18T03:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 17.4,
     "shortwave_radiation": 0.0
   },
   {
-    "timestamp": "2026-09-21T07:00Z",
-    "location": "Madrid",
-    "temperature_2m": 15.4,
-    "shortwave_radiation": 55.0
-  },
-  {
-    "timestamp": "2026-09-21T08:00Z",
-    "location": "Madrid",
-    "temperature_2m": 18.7,
-    "shortwave_radiation": 232.0
-  },
-  {
-    "timestamp": "2026-09-21T09:00Z",
-    "location": "Madrid",
-    "temperature_2m": 22.5,
-    "shortwave_radiation": 423.0
-  },
-  {
-    "timestamp": "2026-09-21T10:00Z",
-    "location": "Madrid",
-    "temperature_2m": 25.0,
-    "shortwave_radiation": 593.0
-  },
-  {
-    "timestamp": "2026-09-21T11:00Z",
-    "location": "Madrid",
-    "temperature_2m": 27.1,
-    "shortwave_radiation": 719.0
-  },
-  {
-    "timestamp": "2026-09-21T12:00Z",
-    "location": "Madrid",
-    "temperature_2m": 28.7,
-    "shortwave_radiation": 790.0
-  },
-  {
-    "timestamp": "2026-09-21T13:00Z",
-    "location": "Madrid",
-    "temperature_2m": 30.0,
-    "shortwave_radiation": 797.0
-  },
-  {
-    "timestamp": "2026-09-21T14:00Z",
-    "location": "Madrid",
-    "temperature_2m": 31.0,
-    "shortwave_radiation": 744.0
-  },
-  {
-    "timestamp": "2026-09-21T15:00Z",
-    "location": "Madrid",
-    "temperature_2m": 31.9,
-    "shortwave_radiation": 635.0
-  },
-  {
-    "timestamp": "2026-09-21T16:00Z",
-    "location": "Madrid",
-    "temperature_2m": 32.0,
-    "shortwave_radiation": 477.0
-  },
-  {
-    "timestamp": "2026-09-21T17:00Z",
-    "location": "Madrid",
-    "temperature_2m": 31.6,
-    "shortwave_radiation": 286.0
-  },
-  {
-    "timestamp": "2026-09-21T18:00Z",
-    "location": "Madrid",
-    "temperature_2m": 30.1,
-    "shortwave_radiation": 94.0
-  },
-  {
-    "timestamp": "2026-09-21T19:00Z",
-    "location": "Madrid",
-    "temperature_2m": 27.6,
+    "timestamp": "2026-09-18T04:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 17.4,
     "shortwave_radiation": 1.0
   },
   {
-    "timestamp": "2026-09-21T20:00Z",
-    "location": "Madrid",
-    "temperature_2m": 25.8,
-    "shortwave_radiation": 0.0
+    "timestamp": "2026-09-18T05:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 17.7,
+    "shortwave_radiation": 73.0
   },
   {
-    "timestamp": "2026-09-21T21:00Z",
-    "location": "Madrid",
-    "temperature_2m": 24.1,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-21T22:00Z",
-    "location": "Madrid",
-    "temperature_2m": 22.8,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-21T23:00Z",
-    "location": "Madrid",
-    "temperature_2m": 21.4,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-15T00:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 24.6,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-15T01:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 24.0,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-15T02:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 22.9,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-15T03:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 21.8,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-15T04:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 21.0,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-15T05:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 20.5,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-15T06:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 20.2,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-15T07:00Z",
-    "location": "Lisbon",
+    "timestamp": "2026-09-18T06:00Z",
+    "location": "Istanbul",
     "temperature_2m": 20.3,
-    "shortwave_radiation": 25.0
+    "shortwave_radiation": 163.0
   },
   {
-    "timestamp": "2026-09-15T08:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 20.7,
-    "shortwave_radiation": 178.0
+    "timestamp": "2026-09-18T07:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 21.4,
+    "shortwave_radiation": 198.0
   },
   {
-    "timestamp": "2026-09-15T09:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 21.8,
-    "shortwave_radiation": 364.0
+    "timestamp": "2026-09-18T08:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 22.7,
+    "shortwave_radiation": 262.0
   },
   {
-    "timestamp": "2026-09-15T10:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 23.9,
-    "shortwave_radiation": 552.0
+    "timestamp": "2026-09-18T09:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 22.4,
+    "shortwave_radiation": 194.0
   },
   {
-    "timestamp": "2026-09-15T11:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 25.7,
-    "shortwave_radiation": 706.0
+    "timestamp": "2026-09-18T10:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 22.0,
+    "shortwave_radiation": 90.0
   },
   {
-    "timestamp": "2026-09-15T12:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 26.9,
-    "shortwave_radiation": 801.0
+    "timestamp": "2026-09-18T11:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 22.3,
+    "shortwave_radiation": 97.0
   },
   {
-    "timestamp": "2026-09-15T13:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 27.2,
-    "shortwave_radiation": 833.0
+    "timestamp": "2026-09-18T12:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 22.9,
+    "shortwave_radiation": 168.0
   },
   {
-    "timestamp": "2026-09-15T14:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 27.0,
-    "shortwave_radiation": 802.0
+    "timestamp": "2026-09-18T13:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 23.4,
+    "shortwave_radiation": 289.0
   },
   {
-    "timestamp": "2026-09-15T15:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 26.7,
-    "shortwave_radiation": 714.0
+    "timestamp": "2026-09-18T14:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 22.9,
+    "shortwave_radiation": 165.0
   },
   {
-    "timestamp": "2026-09-15T16:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 25.9,
-    "shortwave_radiation": 573.0
+    "timestamp": "2026-09-18T15:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 22.7,
+    "shortwave_radiation": 92.0
   },
   {
-    "timestamp": "2026-09-15T17:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 24.2,
-    "shortwave_radiation": 391.0
+    "timestamp": "2026-09-18T16:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 22.1,
+    "shortwave_radiation": 50.0
   },
   {
-    "timestamp": "2026-09-15T18:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 22.6,
-    "shortwave_radiation": 189.0
-  },
-  {
-    "timestamp": "2026-09-15T19:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 21.8,
-    "shortwave_radiation": 28.0
-  },
-  {
-    "timestamp": "2026-09-15T20:00Z",
-    "location": "Lisbon",
+    "timestamp": "2026-09-18T17:00Z",
+    "location": "Istanbul",
     "temperature_2m": 21.2,
     "shortwave_radiation": 0.0
   },
   {
-    "timestamp": "2026-09-15T21:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 21.0,
+    "timestamp": "2026-09-18T18:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 20.7,
     "shortwave_radiation": 0.0
   },
   {
-    "timestamp": "2026-09-15T22:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 20.6,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-15T23:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 20.6,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-16T00:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 20.6,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-16T01:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 20.2,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-16T02:00Z",
-    "location": "Lisbon",
+    "timestamp": "2026-09-18T19:00Z",
+    "location": "Istanbul",
     "temperature_2m": 20.0,
     "shortwave_radiation": 0.0
   },
   {
-    "timestamp": "2026-09-16T03:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 19.6,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-16T04:00Z",
-    "location": "Lisbon",
+    "timestamp": "2026-09-18T20:00Z",
+    "location": "Istanbul",
     "temperature_2m": 19.4,
     "shortwave_radiation": 0.0
   },
   {
-    "timestamp": "2026-09-16T05:00Z",
-    "location": "Lisbon",
+    "timestamp": "2026-09-18T21:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 18.5,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-18T22:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 18.0,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-18T23:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 17.5,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-19T00:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 17.1,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-19T01:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 17.0,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-19T02:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 17.2,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-19T03:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 16.9,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-19T04:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 17.0,
+    "shortwave_radiation": 1.0
+  },
+  {
+    "timestamp": "2026-09-19T05:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 18.0,
+    "shortwave_radiation": 69.0
+  },
+  {
+    "timestamp": "2026-09-19T06:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 20.1,
+    "shortwave_radiation": 215.0
+  },
+  {
+    "timestamp": "2026-09-19T07:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 21.9,
+    "shortwave_radiation": 400.0
+  },
+  {
+    "timestamp": "2026-09-19T08:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 23.6,
+    "shortwave_radiation": 537.0
+  },
+  {
+    "timestamp": "2026-09-19T09:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 24.9,
+    "shortwave_radiation": 614.0
+  },
+  {
+    "timestamp": "2026-09-19T10:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 25.3,
+    "shortwave_radiation": 627.0
+  },
+  {
+    "timestamp": "2026-09-19T11:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 25.3,
+    "shortwave_radiation": 586.0
+  },
+  {
+    "timestamp": "2026-09-19T12:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 25.6,
+    "shortwave_radiation": 537.0
+  },
+  {
+    "timestamp": "2026-09-19T13:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 25.1,
+    "shortwave_radiation": 572.0
+  },
+  {
+    "timestamp": "2026-09-19T14:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 24.1,
+    "shortwave_radiation": 421.0
+  },
+  {
+    "timestamp": "2026-09-19T15:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 23.4,
+    "shortwave_radiation": 227.0
+  },
+  {
+    "timestamp": "2026-09-19T16:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 21.9,
+    "shortwave_radiation": 60.0
+  },
+  {
+    "timestamp": "2026-09-19T17:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 21.1,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-19T18:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 20.6,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-19T19:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 20.6,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-19T20:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 20.2,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-19T21:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 19.8,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-19T22:00Z",
+    "location": "Istanbul",
     "temperature_2m": 19.3,
     "shortwave_radiation": 0.0
   },
   {
-    "timestamp": "2026-09-16T06:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 19.0,
+    "timestamp": "2026-09-19T23:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 18.8,
     "shortwave_radiation": 0.0
   },
   {
-    "timestamp": "2026-09-16T07:00Z",
-    "location": "Lisbon",
+    "timestamp": "2026-09-20T00:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 18.3,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-20T01:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 18.0,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-20T02:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 18.1,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-20T03:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 18.0,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-20T04:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 17.8,
+    "shortwave_radiation": 1.0
+  },
+  {
+    "timestamp": "2026-09-20T05:00Z",
+    "location": "Istanbul",
     "temperature_2m": 19.0,
-    "shortwave_radiation": 20.0
+    "shortwave_radiation": 65.0
   },
   {
-    "timestamp": "2026-09-16T08:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 19.6,
-    "shortwave_radiation": 147.0
+    "timestamp": "2026-09-20T06:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 21.3,
+    "shortwave_radiation": 201.0
   },
   {
-    "timestamp": "2026-09-16T09:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 20.6,
-    "shortwave_radiation": 313.0
+    "timestamp": "2026-09-20T07:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 22.6,
+    "shortwave_radiation": 349.0
   },
   {
-    "timestamp": "2026-09-16T10:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 21.6,
-    "shortwave_radiation": 520.0
+    "timestamp": "2026-09-20T08:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 23.3,
+    "shortwave_radiation": 432.0
   },
   {
-    "timestamp": "2026-09-16T11:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 22.8,
-    "shortwave_radiation": 643.0
-  },
-  {
-    "timestamp": "2026-09-16T12:00Z",
-    "location": "Lisbon",
+    "timestamp": "2026-09-20T09:00Z",
+    "location": "Istanbul",
     "temperature_2m": 23.8,
-    "shortwave_radiation": 774.0
+    "shortwave_radiation": 517.0
   },
   {
-    "timestamp": "2026-09-16T13:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 24.4,
-    "shortwave_radiation": 819.0
-  },
-  {
-    "timestamp": "2026-09-16T14:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 24.6,
-    "shortwave_radiation": 774.0
-  },
-  {
-    "timestamp": "2026-09-16T15:00Z",
-    "location": "Lisbon",
+    "timestamp": "2026-09-20T10:00Z",
+    "location": "Istanbul",
     "temperature_2m": 24.5,
-    "shortwave_radiation": 681.0
+    "shortwave_radiation": 607.0
   },
   {
-    "timestamp": "2026-09-16T16:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 24.0,
-    "shortwave_radiation": 557.0
+    "timestamp": "2026-09-20T11:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 24.7,
+    "shortwave_radiation": 579.0
   },
   {
-    "timestamp": "2026-09-16T17:00Z",
-    "location": "Lisbon",
+    "timestamp": "2026-09-20T12:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 25.2,
+    "shortwave_radiation": 574.0
+  },
+  {
+    "timestamp": "2026-09-20T13:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 24.8,
+    "shortwave_radiation": 512.0
+  },
+  {
+    "timestamp": "2026-09-20T14:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 24.1,
+    "shortwave_radiation": 371.0
+  },
+  {
+    "timestamp": "2026-09-20T15:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 23.6,
+    "shortwave_radiation": 214.0
+  },
+  {
+    "timestamp": "2026-09-20T16:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 22.5,
+    "shortwave_radiation": 56.0
+  },
+  {
+    "timestamp": "2026-09-20T17:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 21.6,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-20T18:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 21.1,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-20T19:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 20.6,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-20T20:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 20.2,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-20T21:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 20.2,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-20T22:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 19.7,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-20T23:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 19.2,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-21T00:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 18.9,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-21T01:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 18.5,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-21T02:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 18.1,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-21T03:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 17.4,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-21T04:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 17.3,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-21T05:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 18.1,
+    "shortwave_radiation": 59.0
+  },
+  {
+    "timestamp": "2026-09-21T06:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 20.7,
+    "shortwave_radiation": 202.0
+  },
+  {
+    "timestamp": "2026-09-21T07:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 22.5,
+    "shortwave_radiation": 359.0
+  },
+  {
+    "timestamp": "2026-09-21T08:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 23.9,
+    "shortwave_radiation": 496.0
+  },
+  {
+    "timestamp": "2026-09-21T09:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 24.9,
+    "shortwave_radiation": 597.0
+  },
+  {
+    "timestamp": "2026-09-21T10:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 25.8,
+    "shortwave_radiation": 655.0
+  },
+  {
+    "timestamp": "2026-09-21T11:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 26.1,
+    "shortwave_radiation": 673.0
+  },
+  {
+    "timestamp": "2026-09-21T12:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 26.2,
+    "shortwave_radiation": 597.0
+  },
+  {
+    "timestamp": "2026-09-21T13:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 26.3,
+    "shortwave_radiation": 511.0
+  },
+  {
+    "timestamp": "2026-09-21T14:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 26.1,
+    "shortwave_radiation": 387.0
+  },
+  {
+    "timestamp": "2026-09-21T15:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 25.2,
+    "shortwave_radiation": 217.0
+  },
+  {
+    "timestamp": "2026-09-21T16:00Z",
+    "location": "Istanbul",
     "temperature_2m": 23.2,
-    "shortwave_radiation": 380.0
+    "shortwave_radiation": 54.0
   },
   {
-    "timestamp": "2026-09-16T18:00Z",
-    "location": "Lisbon",
+    "timestamp": "2026-09-21T17:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 22.1,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-21T18:00Z",
+    "location": "Istanbul",
     "temperature_2m": 21.8,
-    "shortwave_radiation": 180.0
+    "shortwave_radiation": 0.0
   },
   {
-    "timestamp": "2026-09-16T19:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 20.5,
-    "shortwave_radiation": 25.0
+    "timestamp": "2026-09-21T19:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 21.5,
+    "shortwave_radiation": 0.0
   },
   {
-    "timestamp": "2026-09-16T20:00Z",
-    "location": "Lisbon",
+    "timestamp": "2026-09-21T20:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 21.2,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-21T21:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 20.9,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-21T22:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 20.6,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-21T23:00Z",
+    "location": "Istanbul",
     "temperature_2m": 20.1,
     "shortwave_radiation": 0.0
   },
   {
-    "timestamp": "2026-09-16T21:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 20.0,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-16T22:00Z",
-    "location": "Lisbon",
-    "temperature_2m": 20.0,
-    "shortwave_radiation": 0.0
-  },
-  {
-    "timestamp": "2026-09-16T23:00Z",
-    "location": "Lisbon",
+    "timestamp": "2026-09-22T00:00Z",
+    "location": "Istanbul",
     "temperature_2m": 20.3,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-22T01:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 20.0,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-22T02:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 20.5,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-22T03:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 20.2,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-22T04:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 20.2,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-22T05:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 20.4,
+    "shortwave_radiation": 28.0
+  },
+  {
+    "timestamp": "2026-09-22T06:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 20.3,
+    "shortwave_radiation": 85.0
+  },
+  {
+    "timestamp": "2026-09-22T07:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 20.3,
+    "shortwave_radiation": 171.0
+  },
+  {
+    "timestamp": "2026-09-22T08:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 19.6,
+    "shortwave_radiation": 145.0
+  },
+  {
+    "timestamp": "2026-09-22T09:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 20.0,
+    "shortwave_radiation": 186.0
+  },
+  {
+    "timestamp": "2026-09-22T10:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 19.8,
+    "shortwave_radiation": 264.0
+  },
+  {
+    "timestamp": "2026-09-22T11:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 19.7,
+    "shortwave_radiation": 220.0
+  },
+  {
+    "timestamp": "2026-09-22T12:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 20.1,
+    "shortwave_radiation": 182.0
+  },
+  {
+    "timestamp": "2026-09-22T13:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 20.2,
+    "shortwave_radiation": 191.0
+  },
+  {
+    "timestamp": "2026-09-22T14:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 20.0,
+    "shortwave_radiation": 136.0
+  },
+  {
+    "timestamp": "2026-09-22T15:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 20.0,
+    "shortwave_radiation": 55.0
+  },
+  {
+    "timestamp": "2026-09-22T16:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 19.2,
+    "shortwave_radiation": 14.0
+  },
+  {
+    "timestamp": "2026-09-22T17:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 18.3,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-22T18:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 18.1,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-22T19:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 17.8,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-22T20:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 17.5,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-22T21:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 17.0,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-22T22:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 16.8,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-22T23:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 16.3,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-23T00:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 15.8,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-23T01:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 15.8,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-23T02:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 16.0,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-23T03:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 15.7,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-23T04:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 15.6,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-23T05:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 15.4,
+    "shortwave_radiation": 19.0
+  },
+  {
+    "timestamp": "2026-09-23T06:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 15.0,
+    "shortwave_radiation": 43.0
+  },
+  {
+    "timestamp": "2026-09-23T07:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 15.7,
+    "shortwave_radiation": 111.0
+  },
+  {
+    "timestamp": "2026-09-23T08:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 16.3,
+    "shortwave_radiation": 154.0
+  },
+  {
+    "timestamp": "2026-09-23T09:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 17.1,
+    "shortwave_radiation": 126.0
+  },
+  {
+    "timestamp": "2026-09-23T10:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 16.5,
+    "shortwave_radiation": 208.0
+  },
+  {
+    "timestamp": "2026-09-23T11:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 16.4,
+    "shortwave_radiation": 227.0
+  },
+  {
+    "timestamp": "2026-09-23T12:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 16.6,
+    "shortwave_radiation": 166.0
+  },
+  {
+    "timestamp": "2026-09-23T13:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 16.3,
+    "shortwave_radiation": 182.0
+  },
+  {
+    "timestamp": "2026-09-23T14:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 16.4,
+    "shortwave_radiation": 168.0
+  },
+  {
+    "timestamp": "2026-09-23T15:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 16.0,
+    "shortwave_radiation": 149.0
+  },
+  {
+    "timestamp": "2026-09-23T16:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 15.6,
+    "shortwave_radiation": 36.0
+  },
+  {
+    "timestamp": "2026-09-23T17:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 15.2,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-23T18:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 14.7,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-23T19:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 14.4,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-23T20:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 14.1,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-23T21:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 13.8,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-23T22:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 13.5,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-23T23:00Z",
+    "location": "Istanbul",
+    "temperature_2m": 13.3,
     "shortwave_radiation": 0.0
   },
   {
@@ -3021,6 +2733,294 @@
     "timestamp": "2026-09-21T23:00Z",
     "location": "Lisbon",
     "temperature_2m": 25.0,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-22T00:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 24.7,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-22T01:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 23.9,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-22T02:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 23.0,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-22T03:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 22.2,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-22T04:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 22.1,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-22T05:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 22.0,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-22T06:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 21.5,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-22T07:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 21.0,
+    "shortwave_radiation": 17.0
+  },
+  {
+    "timestamp": "2026-09-22T08:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 21.3,
+    "shortwave_radiation": 166.0
+  },
+  {
+    "timestamp": "2026-09-22T09:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 22.7,
+    "shortwave_radiation": 363.0
+  },
+  {
+    "timestamp": "2026-09-22T10:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 24.7,
+    "shortwave_radiation": 544.0
+  },
+  {
+    "timestamp": "2026-09-22T11:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 27.2,
+    "shortwave_radiation": 686.0
+  },
+  {
+    "timestamp": "2026-09-22T12:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 29.2,
+    "shortwave_radiation": 777.0
+  },
+  {
+    "timestamp": "2026-09-22T13:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 31.2,
+    "shortwave_radiation": 808.0
+  },
+  {
+    "timestamp": "2026-09-22T14:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 31.4,
+    "shortwave_radiation": 777.0
+  },
+  {
+    "timestamp": "2026-09-22T15:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 31.4,
+    "shortwave_radiation": 686.0
+  },
+  {
+    "timestamp": "2026-09-22T16:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 31.6,
+    "shortwave_radiation": 539.0
+  },
+  {
+    "timestamp": "2026-09-22T17:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 30.9,
+    "shortwave_radiation": 353.0
+  },
+  {
+    "timestamp": "2026-09-22T18:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 29.5,
+    "shortwave_radiation": 154.0
+  },
+  {
+    "timestamp": "2026-09-22T19:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 27.6,
+    "shortwave_radiation": 14.0
+  },
+  {
+    "timestamp": "2026-09-22T20:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 25.7,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-22T21:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 24.5,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-22T22:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 23.7,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-22T23:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 22.9,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-23T00:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 23.0,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-23T01:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 22.3,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-23T02:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 21.2,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-23T03:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 21.4,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-23T04:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 21.1,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-23T05:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 21.0,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-23T06:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 20.8,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-23T07:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 20.7,
+    "shortwave_radiation": 15.0
+  },
+  {
+    "timestamp": "2026-09-23T08:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 21.5,
+    "shortwave_radiation": 155.0
+  },
+  {
+    "timestamp": "2026-09-23T09:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 23.3,
+    "shortwave_radiation": 350.0
+  },
+  {
+    "timestamp": "2026-09-23T10:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 25.2,
+    "shortwave_radiation": 533.0
+  },
+  {
+    "timestamp": "2026-09-23T11:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 27.4,
+    "shortwave_radiation": 678.0
+  },
+  {
+    "timestamp": "2026-09-23T12:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 30.3,
+    "shortwave_radiation": 771.0
+  },
+  {
+    "timestamp": "2026-09-23T13:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 32.0,
+    "shortwave_radiation": 803.0
+  },
+  {
+    "timestamp": "2026-09-23T14:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 33.2,
+    "shortwave_radiation": 770.0
+  },
+  {
+    "timestamp": "2026-09-23T15:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 32.9,
+    "shortwave_radiation": 672.0
+  },
+  {
+    "timestamp": "2026-09-23T16:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 32.5,
+    "shortwave_radiation": 521.0
+  },
+  {
+    "timestamp": "2026-09-23T17:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 31.0,
+    "shortwave_radiation": 337.0
+  },
+  {
+    "timestamp": "2026-09-23T18:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 29.5,
+    "shortwave_radiation": 145.0
+  },
+  {
+    "timestamp": "2026-09-23T19:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 27.5,
+    "shortwave_radiation": 12.0
+  },
+  {
+    "timestamp": "2026-09-23T20:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 25.8,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-23T21:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 25.9,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-23T22:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 24.6,
+    "shortwave_radiation": 0.0
+  },
+  {
+    "timestamp": "2026-09-23T23:00Z",
+    "location": "Lisbon",
+    "temperature_2m": 23.8,
     "shortwave_radiation": 0.0
   }
 ]

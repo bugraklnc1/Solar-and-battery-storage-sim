@@ -19,7 +19,7 @@ function makeRecord(
   temperature_2m: number,
   options: {
     timestamp?: string;
-    location?: 'Berlin' | 'Madrid' | 'Lisbon';
+    location?: 'Berlin' | 'Istanbul' | 'Lisbon';
   } = {},
 ): HourlyRecord {
   return {
@@ -49,8 +49,8 @@ describe('simulate — basic', () => {
   });
 
   it('output location matches input location', () => {
-    const result = simulate([makeRecord(0, 20, { location: 'Madrid' })]);
-    expect(result[0].location).toBe('Madrid');
+    const result = simulate([makeRecord(0, 20, { location: 'Istanbul' })]);
+    expect(result[0].location).toBe('Istanbul');
   });
 
   it('all numeric fields are typeof number — not string', () => {

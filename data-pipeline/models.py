@@ -21,6 +21,6 @@ class HourlyRecord(BaseModel):
     """
 
     timestamp: str
-    location: Literal["Berlin", "Madrid", "Lisbon"]
+    location: Literal["Berlin", "Istanbul", "Lisbon"]
     temperature_2m: float = Field(ge=-50.0, le=60.0)
     shortwave_radiation: float = Field(ge=0.0)

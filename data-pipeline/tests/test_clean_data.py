@@ -116,7 +116,7 @@ class TestHourlyRecord:
         with pytest.raises(ValidationError):
             HourlyRecord(
                 timestamp="2026-09-20T12:00Z",
-                location="Madrid",
+                location="Istanbul",
                 temperature_2m=61.0,
                 shortwave_radiation=800.0,
             )

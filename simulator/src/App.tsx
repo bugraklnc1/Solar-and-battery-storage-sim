@@ -5,13 +5,13 @@ import type { HourlyRecord, SimulationResult } from './types';
 import EnergyChart from './components/EnergyChart';
 import ResultTable from './components/ResultTable';
 
-type City = 'Berlin' | 'Madrid' | 'Lisbon';
+type City = 'Berlin' | 'Istanbul' | 'Lisbon';
 
-const CITIES: City[] = ['Berlin', 'Madrid', 'Lisbon'];
+const CITIES: City[] = ['Berlin', 'Istanbul', 'Lisbon'];
 
 const CITY_FLAGS: Record<City, string> = {
   Berlin: '🇩🇪',
-  Madrid: '🇪🇸',
+  Istanbul: '🇹🇷',
   Lisbon: '🇵🇹',
 };
 

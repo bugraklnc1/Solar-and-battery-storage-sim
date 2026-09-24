@@ -11,7 +11,7 @@
 
 export interface HourlyRecord {
   timestamp: string;
-  location: 'Berlin' | 'Madrid' | 'Lisbon';
+  location: 'Berlin' | 'Istanbul' | 'Lisbon';
   temperature_2m: number;        // °C
   shortwave_radiation: number;   // W/m²
 }
@@ -22,7 +22,7 @@ export interface HourlyRecord {
 
 export interface SimulationResult {
   timestamp: string;
-  location: 'Berlin' | 'Madrid' | 'Lisbon';  // self-contained — safe for filtering
+  location: 'Berlin' | 'Istanbul' | 'Lisbon';  // self-contained — safe for filtering
   pv_output_kw: number;       // PV output (kW) — includes temperature efficiency loss
   consumption_kw: number;     // Fixed home consumption (kW)
   battery_soc_kwh: number;    // Battery state of charge (kWh)
