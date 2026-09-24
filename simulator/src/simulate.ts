@@ -20,7 +20,14 @@ import type { HourlyRecord, SimulationResult } from './types';
 const PANEL_CAPACITY_KW    = 5;      // kW  — total panel capacity
 const TEMP_COEFFICIENT     = 0.004;  // /°C — efficiency loss per degree above 25 °C (c-Si)
 const BATTERY_CAPACITY_KWH = 10;    // kWh — maximum battery capacity
-const HOME_CONSUMPTION_KW  = 1.5;   // kW  — constant home consumption
+const HOURLY_CONSUMPTION_PROFILE_KW: number[] = [
+  0.6, 0.5, 0.5, 0.5, 0.6, 0.7,  // 00:00 - 05:00 (Night low)
+  1.0, 1.8, 2.2, 1.9,            // 06:00 - 09:00 (Morning peak)
+  1.2, 1.1, 1.0, 0.9, 0.9, 1.0,  // 10:00 - 15:00 (Daytime)
+  1.2, 1.5,                      // 16:00 - 17:00 (Afternoon)
+  2.0, 2.4, 2.5, 2.3, 1.6,       // 18:00 - 22:00 (Evening peak)
+  0.8                            // 23:00 (Night transition)
+];
 
 // ---------------------------------------------------------------------------
 // PV output formula (project.md §10)
@@ -67,7 +74,10 @@ export function simulate(
 
   for (const record of data) {
     const pv_output_kw   = calcPvOutput(record);
-    const consumption_kw = HOME_CONSUMPTION_KW;
+    
+    const dateObj = new Date(record.timestamp);
+    const hour = dateObj.getUTCHours();
+    const consumption_kw = HOURLY_CONSUMPTION_PROFILE_KW[hour];
 
     // Positive net -> surplus production; negative -> deficit
     const net_kw = pv_output_kw - consumption_kw;
