@@ -28,17 +28,16 @@ function formatTick(ts: string): string {
   });
 }
 
-// Tooltip must be a component reference (not <Instance />) to avoid Recharts freeze bug
 function CustomTooltip({ active, payload, label }: any) {
   if (!active || !payload?.length) return null;
   return (
-    <div className="bg-slate-800/90 backdrop-blur border border-slate-600 rounded-xl p-3 text-xs shadow-xl">
-      <p className="text-slate-300 font-medium mb-2">{formatTick(label)}</p>
+    <div className="bg-white/95 backdrop-blur border border-slate-200 rounded-xl p-3 text-xs shadow-xl">
+      <p className="text-slate-700 font-medium mb-2">{formatTick(label)}</p>
       {payload.map((entry: any) => (
         <div key={entry.dataKey} className="flex items-center gap-2 py-0.5">
           <span className="w-2.5 h-2.5 rounded-full" style={{ background: entry.color }} />
-          <span className="text-slate-400">{entry.name}:</span>
-          <span className="text-white font-semibold">
+          <span className="text-slate-500">{entry.name}:</span>
+          <span className="text-slate-900 font-semibold">
             {typeof entry.value === 'number' ? entry.value.toFixed(2) : entry.value}
             {entry.dataKey === 'battery_soc_pct' ? ' %' : ' kW'}
           </span>
@@ -49,33 +48,32 @@ function CustomTooltip({ active, payload, label }: any) {
 }
 
 export default function EnergyChart({ data }: Props) {
-  // Show one tick per day (every 24 records). Using explicit ticks prevents label overlap.
   const tickValues = data
     .filter((_, i) => i % 24 === 0)
     .map(d => d.timestamp);
 
   return (
-    <div className="bg-slate-900/60 backdrop-blur border border-slate-700/50 rounded-2xl p-6">
-      <h2 className="text-sm font-semibold text-slate-400 uppercase tracking-wider mb-6">
+    <div className="bg-white border border-slate-200 shadow-sm rounded-2xl p-6">
+      <h2 className="text-sm font-semibold text-slate-600 uppercase tracking-wider mb-6">
         Energy Overview — 7 Days
       </h2>
       <ResponsiveContainer width="100%" height={340}>
         <ComposedChart data={data} margin={{ top: 4, right: 24, left: 0, bottom: 4 }}>
           <defs>
             <linearGradient id="batteryGrad" x1="0" y1="0" x2="0" y2="1">
-              <stop offset="5%"  stopColor="#34d399" stopOpacity={0.35} />
-              <stop offset="95%" stopColor="#34d399" stopOpacity={0.02} />
+              <stop offset="5%"  stopColor="#10b981" stopOpacity={0.25} />
+              <stop offset="95%" stopColor="#10b981" stopOpacity={0.02} />
             </linearGradient>
           </defs>
 
-          <CartesianGrid strokeDasharray="3 3" stroke="#1e293b" />
+          <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
 
           <XAxis
             dataKey="timestamp"
-            ticks={tickValues}          // explicit daily ticks — no overlap
+            ticks={tickValues}
             tickFormatter={formatTick}
-            tick={{ fill: '#94a3b8', fontSize: 11 }}
-            axisLine={{ stroke: '#334155' }}
+            tick={{ fill: '#64748b', fontSize: 11 }}
+            axisLine={{ stroke: '#e2e8f0' }}
             tickLine={false}
           />
 
@@ -83,7 +81,7 @@ export default function EnergyChart({ data }: Props) {
           <YAxis
             yAxisId="kw"
             domain={[0, 6]}
-            tick={{ fill: '#94a3b8', fontSize: 11 }}
+            tick={{ fill: '#64748b', fontSize: 11 }}
             axisLine={false}
             tickLine={false}
             tickFormatter={(v) => `${v} kW`}
@@ -95,17 +93,16 @@ export default function EnergyChart({ data }: Props) {
             yAxisId="pct"
             orientation="right"
             domain={[0, 100]}
-            tick={{ fill: '#94a3b8', fontSize: 11 }}
+            tick={{ fill: '#64748b', fontSize: 11 }}
             axisLine={false}
             tickLine={false}
             tickFormatter={(v) => `${v}%`}
             width={46}
           />
 
-          {/* Pass component reference — NOT <CustomTooltip /> — to avoid frozen tooltip bug */}
           <Tooltip content={CustomTooltip} />
           <Legend
-            wrapperStyle={{ paddingTop: '20px', fontSize: '12px', color: '#94a3b8' }}
+            wrapperStyle={{ paddingTop: '20px', fontSize: '12px', color: '#64748b' }}
           />
 
           {/* Battery SOC — filled area on right axis */}
@@ -114,7 +111,7 @@ export default function EnergyChart({ data }: Props) {
             type="monotone"
             dataKey="battery_soc_pct"
             name="Battery SOC"
-            stroke="#34d399"
+            stroke="#059669"
             strokeWidth={1.5}
             fill="url(#batteryGrad)"
             dot={false}
@@ -128,11 +125,11 @@ export default function EnergyChart({ data }: Props) {
             type="monotone"
             dataKey="pv_output_kw"
             name="PV Output (kW)"
-            stroke="#fbbf24"
+            stroke="#d97706"
             strokeWidth={2}
             dot={false}
             isAnimationActive={false}
-            activeDot={{ r: 4, strokeWidth: 0, fill: '#fbbf24' }}
+            activeDot={{ r: 4, strokeWidth: 0, fill: '#d97706' }}
           />
 
           {/* Grid Draw — dashed red line on left axis */}
@@ -141,12 +138,12 @@ export default function EnergyChart({ data }: Props) {
             type="monotone"
             dataKey="grid_draw_kw"
             name="Grid Draw (kW)"
-            stroke="#f87171"
+            stroke="#dc2626"
             strokeWidth={1.5}
             strokeDasharray="4 3"
             dot={false}
             isAnimationActive={false}
-            activeDot={{ r: 3, strokeWidth: 0, fill: '#f87171' }}
+            activeDot={{ r: 3, strokeWidth: 0, fill: '#dc2626' }}
           />
         </ComposedChart>
       </ResponsiveContainer>

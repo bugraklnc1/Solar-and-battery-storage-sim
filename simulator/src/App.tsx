@@ -21,15 +21,15 @@ interface StatCardProps {
   label: string;
   value: string;
   sub?: string;
-  accent: string;  // Tailwind text color class
+  accent: string;
 }
 
 function StatCard({ label, value, sub, accent }: StatCardProps) {
   return (
-    <div className="bg-slate-900/60 backdrop-blur border border-slate-700/50 rounded-2xl p-5 flex flex-col gap-1">
+    <div className="bg-white border border-slate-200 shadow-sm rounded-2xl p-5 flex flex-col gap-1">
       <span className="text-xs text-slate-500 uppercase tracking-wider font-medium">{label}</span>
       <span className={`text-2xl font-bold ${accent}`}>{value}</span>
-      {sub && <span className="text-xs text-slate-600">{sub}</span>}
+      {sub && <span className="text-xs text-slate-400">{sub}</span>}
     </div>
   );
 }
@@ -38,8 +38,8 @@ function StatCard({ label, value, sub, accent }: StatCardProps) {
 
 function LoadingScreen() {
   return (
-    <div className="min-h-screen bg-slate-950 flex flex-col items-center justify-center gap-4">
-      <div className="w-10 h-10 rounded-full border-2 border-amber-400 border-t-transparent animate-spin" />
+    <div className="min-h-screen bg-slate-50 flex flex-col items-center justify-center gap-4">
+      <div className="w-10 h-10 rounded-full border-2 border-amber-500 border-t-transparent animate-spin" />
       <p className="text-slate-500 text-sm">Loading solar data…</p>
     </div>
   );
@@ -47,11 +47,11 @@ function LoadingScreen() {
 
 function ErrorScreen({ message }: { message: string }) {
   return (
-    <div className="min-h-screen bg-slate-950 flex flex-col items-center justify-center gap-3 px-6">
-      <p className="text-red-400 text-lg font-semibold">Failed to load data</p>
+    <div className="min-h-screen bg-slate-50 flex flex-col items-center justify-center gap-3 px-6">
+      <p className="text-red-600 text-lg font-semibold">Failed to load data</p>
       <p className="text-slate-500 text-sm text-center max-w-md font-mono">{message}</p>
-      <p className="text-slate-600 text-xs mt-2">
-        Run: <code className="text-amber-400">python fetch_weather.py &amp;&amp; python clean_data.py</code>
+      <p className="text-slate-400 text-xs mt-2">
+        Run: <code className="text-amber-600">python fetch_weather.py &amp;&amp; python clean_data.py</code>
       </p>
     </div>
   );
@@ -72,7 +72,6 @@ export default function App() {
       .finally(() => setLoading(false));
   }, []);
 
-  // Filter records for selected city, then run simulation
   const cityRecords = useMemo(
     () => allData.filter(r => r.location === city),
     [allData, city],
@@ -83,7 +82,6 @@ export default function App() {
     [cityRecords],
   );
 
-  // Aggregate stats
   const stats = useMemo(() => {
     const totalPv        = results.reduce((s, r) => s + r.pv_output_kw, 0);
     const totalGrid      = results.reduce((s, r) => s + r.grid_draw_kw, 0);
@@ -99,14 +97,14 @@ export default function App() {
   if (error)   return <ErrorScreen message={error} />;
 
   return (
-    <div className="min-h-screen bg-slate-950 text-slate-100">
-      {/* ── Subtle grid background ── */}
+    <div className="min-h-screen bg-slate-50 text-slate-900">
+      {/* ── Subtle warm gradient ── */}
       <div
         className="fixed inset-0 pointer-events-none"
         style={{
           backgroundImage:
-            'radial-gradient(circle at 30% 20%, rgba(251,191,36,0.04) 0%, transparent 60%),' +
-            'radial-gradient(circle at 70% 80%, rgba(52,211,153,0.04) 0%, transparent 60%)',
+            'radial-gradient(circle at 20% 10%, rgba(251,191,36,0.07) 0%, transparent 50%),' +
+            'radial-gradient(circle at 80% 90%, rgba(52,211,153,0.05) 0%, transparent 50%)',
         }}
       />
 
@@ -115,12 +113,12 @@ export default function App() {
         {/* ── Header ── */}
         <header className="flex flex-col sm:flex-row sm:items-end justify-between gap-4">
           <div>
-            <p className="text-xs text-amber-400 font-semibold uppercase tracking-widest mb-1">
-              Solar & Battery Storage Simulator
+            <p className="text-xs text-amber-600 font-semibold uppercase tracking-widest mb-1">
+              Solar &amp; Battery Storage Simulator
             </p>
-            <h1 className="text-3xl font-bold tracking-tight">
+            <h1 className="text-3xl font-bold tracking-tight text-slate-900">
               {CITY_FLAGS[city]}&nbsp; {city}
-              <span className="text-slate-600 text-xl font-normal ml-2">/ 7-day simulation</span>
+              <span className="text-slate-400 text-xl font-normal ml-2">/ 7-day simulation</span>
             </h1>
           </div>
 
@@ -133,8 +131,8 @@ export default function App() {
                 className={[
                   'px-4 py-2 rounded-xl text-sm font-medium transition-all duration-200',
                   city === c
-                    ? 'bg-amber-400 text-slate-900 shadow-lg shadow-amber-400/20'
-                    : 'bg-slate-800 text-slate-400 hover:bg-slate-700 hover:text-slate-200',
+                    ? 'bg-amber-500 text-white shadow-lg shadow-amber-400/30'
+                    : 'bg-white border border-slate-200 text-slate-600 hover:bg-slate-100 hover:text-slate-900',
                 ].join(' ')}
               >
                 {CITY_FLAGS[c]} {c}
@@ -149,25 +147,25 @@ export default function App() {
             label="Total PV Output"
             value={`${stats.totalPv.toFixed(1)} kWh`}
             sub="7-day generation"
-            accent="text-amber-400"
+            accent="text-amber-600"
           />
           <StatCard
             label="Self-Sufficiency"
             value={`${stats.selfSuffPct}%`}
             sub="hours without grid"
-            accent="text-emerald-400"
+            accent="text-emerald-600"
           />
           <StatCard
             label="Grid Draw"
             value={`${stats.totalGrid.toFixed(1)} kWh`}
             sub="from utility grid"
-            accent="text-red-400"
+            accent="text-red-600"
           />
           <StatCard
             label="Curtailed"
             value={`${stats.totalCurtailed.toFixed(1)} kWh`}
             sub="excess PV lost"
-            accent="text-orange-400"
+            accent="text-orange-600"
           />
         </div>
 
@@ -178,9 +176,9 @@ export default function App() {
         <ResultTable results={results} />
 
         {/* ── Footer ── */}
-        <footer className="text-center text-xs text-slate-700 pb-4">
+        <footer className="text-center text-xs text-slate-400 pb-4">
           Data: Open-Meteo API &nbsp;·&nbsp; Panel: 5 kW &nbsp;·&nbsp;
-          Battery: 10 kWh &nbsp;·&nbsp; Consumption: 1.5 kW constant
+          Battery: 10 kWh &nbsp;·&nbsp; Consumption: Duck Curve Profile
         </footer>
 
       </div>
